@@ -1,5 +1,6 @@
 {
     "clientID" : "Twitch bot or developer ClientID",
+    "streamer" : "Your streamer name to follow",
 
     "oauth": "Twitch bot oauth",
     "username": "Twitch bot username",
