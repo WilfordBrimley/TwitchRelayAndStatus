@@ -1,0 +1,12 @@
+{
+    "clientID" : "Twitch bot or developer ClientID",
+
+    "oauth": "Twitch bot oauth",
+    "username": "Twitch bot username",
+    "channels": "Twitch Channel to Mirror",
+
+    "token" : "Your Bot Token",
+    "guildMirror": "Discord Guild ID to Mirror",
+    "disChannel": "Discord Channel ID To Mirror"
+
+}
